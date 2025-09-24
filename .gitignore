@@ -1,0 +1,11 @@
+.DS_Store
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+*.tex
+*.pdf
+Delta_Activations_Arxiv/
+CLAUDE.md
+*.py
+1.ipynb
+paper/
